@@ -1,0 +1,38 @@
+.banner img {
+    height: 150px;
+    position: relative;
+}
+
+.team-details img{
+    height: 20px;
+}
+
+.team-img img{
+    height: 250px;
+}
+
+.single-team-container{
+    color: white;
+    padding: 2rem 1rem 4rem 1rem;
+}
+
+.single-team-container .container .team-info{
+    display: flex;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.team-img{
+    text-align: right;
+}
+
+.team-desc{
+    margin: 3rem 0;
+}
+
+.social img{
+    height: 3rem;
+}
+.social{
+    margin-top: 3rem;
+}

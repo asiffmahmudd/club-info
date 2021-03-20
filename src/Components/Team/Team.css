@@ -1,0 +1,13 @@
+.card {
+    padding: 2rem;
+}
+.card-deck {
+    text-align: center;
+}
+.card-img img {
+    width: 120px;
+}
+.btn{
+    background: midnightblue !important;
+    color: white !important;
+}

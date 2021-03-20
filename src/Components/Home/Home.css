@@ -1,0 +1,6 @@
+.card-deck, .cards-row{
+    justify-content: center;
+}
+section{
+    background: rgb(32, 25, 70);
+}
